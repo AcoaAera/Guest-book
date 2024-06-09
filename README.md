@@ -34,10 +34,10 @@ DB_USERNAME=
 DB_PASSWORD=
 ```
 
-Запустить миграции `php artisan migrate`
-Запустить сервер `php artisan serve`
+-   Запустить миграции `php artisan migrate`
+-   Запустить сервер `php artisan serve`
 
 ## Детали
 
-Дамп базы данных в прокете: **dump_db.sql**
-Файл **.env** добавил также в GIT, хоть это и делать плохо
+-   Дамп базы данных в прокете: **dump_db.sql**
+-   Файл **.env** добавил также в GIT, хоть это и делать плохо
